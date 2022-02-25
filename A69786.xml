@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Confession and execution of the seven prisoners suffering at Tyburn on Fryday the 4th of May, 1677 viz, Robert Dine, William Dine, and Margaret Dine [brace] of Enfield, for barbarously wounding of Jane King, the sweet-heart of the said Robert, Margaret Spicer [brace] for murthering her bastard-childe, David Hackley, Jeremiah Dawson, and Mary Browne, [brace] all notorious offenders, and formerly burn'd in the hand for several felonies by them commited : together with their penitent behaviour in Newgate, since their condemnation, and last speeches at the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A69786</idno>
+            <idno type="STC">Wing C5754</idno>
+            <idno type="STC">ESTC R35605</idno>
+            <idno type="EEBO-CITATION">15491336</idno>
+            <idno type="OCLC">ocm 15491336</idno>
+            <idno type="VID">103567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A69786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1186:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Confession and execution of the seven prisoners suffering at Tyburn on Fryday the 4th of May, 1677 viz, Robert Dine, William Dine, and Margaret Dine [brace] of Enfield, for barbarously wounding of Jane King, the sweet-heart of the said Robert, Margaret Spicer [brace] for murthering her bastard-childe, David Hackley, Jeremiah Dawson, and Mary Browne, [brace] all notorious offenders, and formerly burn'd in the hand for several felonies by them commited : together with their penitent behaviour in Newgate, since their condemnation, and last speeches at the place of execution.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for D.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dine, Robert, d. 1677.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103567:1"/>
+            <pb facs="tcp:103567:1" rendition="simple:additions"/>
+            <p>THE CONFESSION AND EXECUTION Of the Seven Priſoners ſuffering at TYBURN On <hi>Fryday</hi> the 4th of <hi>May,</hi> 1677.
+<table rend="braced">
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>Robert Dine,</hi>
+                           </item>
+                           <item>
+                              <hi>William Dine,</hi>
+                           </item>
+                           <item>and <hi>Margaret Dine,</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>Of <hi>Enfield,</hi> for barbarouſly wounding of <hi>Jane King,</hi> the Sweet-heart of the ſaid <hi>Robert.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Margaret Spicer,</cell>
+                     <cell>For murthering her Baſtard<g ref="char:EOLhyphen"/>childe.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <hi>David Hackley,</hi>
+                           </item>
+                           <item>
+                              <hi>Jeremiah Dawſon,</hi>
+                           </item>
+                           <item>and <hi>Mary Browne,</hi>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>All notorious Offenders, and formerly Burn'd in the hand for ſeveral Felonies by them committed.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Together with their penitent Behaviour in Newgate, ſince their Condemnation, and laſt Speeches at the place of Execution.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>With Allowance.</p>
+                  <closer>
+                     <signed>Ro. L'Eſtrang.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London:</hi> Printed for <hi>D. M.</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="execution_account">
+            <pb facs="tcp:103567:2"/>
+            <pb n="3" facs="tcp:103567:2" rendition="simple:additions"/>
+            <head>The Confeſsion and Execution of the Seven Priſoners ſuffering at <hi>Tyburn.</hi>
+            </head>
+            <p>DId not people not onely wilfully ne<g ref="char:EOLhyphen"/>glect all means of Grace, and ſmother convictions of Conſcience, but alſo a<g ref="char:EOLhyphen"/>bandon all the dictates of Reaſon, and conſiderations of their own Intereſt even in this world, and give themſelves wholly up to the conduct of Satan, to be hurried on by his temptations to the moſt dangerous and de<g ref="char:EOLhyphen"/>ſtructive Attempts, one would never imagine, that after ſo many Monthly Examples as this Ci<g ref="char:EOLhyphen"/>ty affords, of perſons bringing themſelves to ſhameful and untimely Ends by unjuſt and wic<g ref="char:EOLhyphen"/>ked Courſes, any ſhould be at once ſo impiouſly and fooliſhly bold as to follow the ſame Courſes till they involve themſelves in the like miſerable and deplorable Fate.</p>
+            <p>At the late Seſſions, holden for <hi>London</hi> and <hi>Middleſex</hi> the 25th and 26th of <hi>April,</hi> no leſs than Nine perſons received Sentence of death; of
+<pb n="4" facs="tcp:103567:3"/> whom Five were old notorious Offenders; and though often they had obtained the favour of the Clergy, and ſome the mercy of Pardons, yet ſtill they perſiſted in their lewdneſs: However, Two of them that ſeemed the leaſt incourrigible, were once more graciouſly redeem'd from that deſtru<g ref="char:EOLhyphen"/>ction they had precipitated themſelves into: And may their ſuture lives, thus given them as a Prey, and ſaved as a Brand pluck'd out of the fire, be ſpent in honeſt Induſtry and Employment, that they may prove worthy of ſuch Reprieve; for aſſuredly if they do not repent, and turn from theſe wicked practices, they will ſhortly again ſtand in need of Mercy, which will then refuſe to hear their Complaints, and deliver them up to Death according to Juſtice.</p>
+            <p>One of the other Four was Condemned for murthering her Baſtard-Childe, which ſhe moſt unnaturally kill'd and hid in her bed for ſome days, till the ſame was diſcovered by one that came to viſit her. As ſhe denied her murthering of it at the Bar, ſo ſhe perſiſted in that negative to Maſter Ordinary and other Miniſters ſince ſhe received Sentence, alleadging that it was Still<g ref="char:EOLhyphen"/>born; or at leaſt, contracted its death as ſoon as ever it ſaluted the light, by an accidental fall: However, the Law, to prevent ſuch pretences which in all Caſes of that kind might be made, obliging the woman immediately after to Cry out, and ſhe failing therein, and as 'tis ſhrewdly appa<g ref="char:EOLhyphen"/>rent by Circumſtances, was the principal Author of its deſtruction, ſhe was condemned to die, and
+<pb n="5" facs="tcp:103567:3" rendition="simple:additions"/> this day executed at <hi>Tyburn</hi> according to Sen<g ref="char:EOLhyphen"/>tence.</p>
+            <p>Three others, as the Crime they ſuffered for was the firſt they were known to have commit<g ref="char:EOLhyphen"/>ted; ſo was it ſo ſtrange and heinous, as ſcarce ever to have been done by any body but them<g ref="char:EOLhyphen"/>ſelves: ſo that we may ſay, They died Preſi<g ref="char:EOLhyphen"/>dents of Puniſhment, for a Crime unpreſidented. Theſe were the two Brothers and Siſter of <hi>En<g ref="char:EOLhyphen"/>field,</hi> who ſo barbarouſly mangled <hi>Jane King,</hi> to whom <hi>Robert,</hi> one of the Brothers, pretended Love; but after a long acquaintance, being Fellow-Servants together, ſhe refuſed to have him: whereupon his treacherous Love turned to Hatred and Malice, inſtigated (as 'tis ſuppoſed) chiefly thereunto by this unhappy Siſter, with whom and his Brother he lays a Plot to disfigure her; maliciouſly and enviouſly deſigning, that becauſe ſhe would not accept of him, they would render her ſo deformed, that ſhe her ſelf ſhould not be acceptable to any other perſon. In purſuance whereof, on the 20th of <hi>February</hi> laſt about 8 of the clock in the evening, <hi>Robert</hi> and <hi>Jane</hi> being only up, and their aged Maſter in bed, ſome <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>alls <hi>Robert</hi> by his name at the back-door, which <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> immediately opens; and then comes in the Siſter and Brother, the later of whom ſeizes upon <hi>Jane</hi> and holds her, while the former barbarous Fury cuts her Eye ſo lamentably that ſhe has utterly loſt the uſe of it; mangles her Noſe in a diſmal manner, inſomuch that two bones were taken out of it; her Tongue ſhe ſlit,
+<pb n="6" facs="tcp:103567:4"/> and almoſt cut off both her Lips; and alſo gave her a wound and two ſlabs in the Neck, and ſe<g ref="char:EOLhyphen"/>veral ſlaſhes on the Arm, <hi>&amp;c.</hi> And having diſ<g ref="char:EOLhyphen"/>patch'd this unheard of Cruelty, left her for dead, and went home; who being gone, <hi>Robert</hi> cries out Murther and Thieves; and Neighbours coming in, pretends to be knock'd down, <hi>&amp;c.</hi> but it pleas'd God that <hi>Jane,</hi> after three or four days, recovered her ſenſes and then declared who had abuſed her, and fully proved the ſame at the Seſſions; whereupon they were all Con<g ref="char:EOLhyphen"/>demned according to the Statute in that Caſe made and provided.</p>
+            <p>Yet did they all perſiſt in the denial of the Fact, after their Condemnation, even to the day of their Death: nor would all Perſwaſions or Admoniti<g ref="char:EOLhyphen"/>ons of ſeveral Miniſters that came to viſit them, get any acknowledgement that they had any hand in it. Though on the Sunday they carried themſelves very attentively in the Chappel, and a great part of the Sermon was to perſwade the neceſſity of Confeſſion in order to their Souls health, yet they could not be prevailed upon; only on the Munday <hi>Margaret</hi> ſeemed a little unuſually troubled, and delared, That ſhe had ſomething lay upon her Conſcience, and deſired ſhe might ſpeak with a Miniſter in private; whereupon a Miniſter was ſent for, who took her aſide, and hoping then ſhe would have made an ingenuous Diſcovery, preſs'd her with all imagi<g ref="char:EOLhyphen"/>nable Arguments, but to no purpoſe: For ſhe told him, ſhe knew nothing of it; whereupon
+<pb n="7" facs="tcp:103567:4"/> he as'd her, What it was ſhe ſaid troubled her, and lay upon her Conſcience, for which ſhe de<g ref="char:EOLhyphen"/>ſired to ſpeak with a Miniſter by her ſelf: To which, all the anſwer that he could get was, <hi>That ſhe had, when ſhe ſaid ſo, ſomething in her head, but now ſhe had forgot it.</hi>
+            </p>
+            <p>
+               <hi>David Hackley</hi> having been before burn'd in the hand, <hi>&amp;c.</hi> after his Sentence, appeared very ſeriouſly concern'd; and whereas he had for<g ref="char:EOLhyphen"/>merly occaſion'd much trouble to a Gentleman that had been his Maſter, and hired <hi>Sadler</hi> and others to accuſe and ſwear againſt him for ſeveral matters, endeavouring what they could malici<g ref="char:EOLhyphen"/>ouſly to have taken away his life, had not their wickedneſs been fruſtrated by Providence, he now (I ſay) did freely confeſs, That all that Pro<g ref="char:EOLhyphen"/>ſecution was malicious and groundleſs, and that he was chief Deſigner and Confederate in carry<g ref="char:EOLhyphen"/>ing on the ſame: For which he ask'd God and his Maſter forgiveneſs; declaring, That he was heartily ſorry for the ſame, eſpecially that he ſhould draw in others, and provoke them to ſwear notorious untruths, which he was afraid they had never ſincerely repented of before their deaths.</p>
+            <p>Of the other two Priſoners we have little to ſay, but only that as they liv'd incorrigible, and would take no warning by ſeveral Con<g ref="char:EOLhyphen"/>victions; ſo it is to be fear'd they died ſo too, at leaſt for any publick ſignes of Re<g ref="char:EOLhyphen"/>pentance,
+<pb n="8" facs="tcp:103567:5"/> which might teſtifie the contra<g ref="char:EOLhyphen"/>ry.</p>
+            <p>By the Chriſtian favour of the Court, they were allowed time to prepare for Death until the 4th of <hi>May;</hi> at which time they were carried to <hi>Tyburn,</hi> and after the uſual Prayers, without any conſiderable or remar<g ref="char:EOLhyphen"/>kable Speeches, but only requeſting the Prayers of all good People preſent, they were Executed according to Law.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103567:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
